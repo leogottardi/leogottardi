@@ -13,5 +13,5 @@
 
 ### Hey there! Welcome to my repositories! 👋🚀
 
-- 💻 NodeJS, TypeScript, Elixir, RabbitMQ, Microservices, AWS, SQL, NoSQL.
+- 💻 NodeJS, TypeScript, RabbitMQ, Microservices, AWS, SQL, NoSQL.
 - ✨ Always learning in order to be better than yesterday.
